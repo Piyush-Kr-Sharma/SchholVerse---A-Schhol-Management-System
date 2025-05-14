@@ -18,17 +18,17 @@ __Express.js__ for creating REST API, __MongoDB__ for database and __Cloudinary_
 
 ```bash
 # Clone the repo
-git clone https://github.com/Piyush-Kr-Sharma/SchoolVerse.git
+git clone https://github.com/Piyush-Kr-Sharma/SchholVerse---A-Schhol-Management-System.git
 
 # Navigate to project folder
 cd SchoolVerse
 
 # Install frontend dependencies
-cd frontend
+cd client
 npm install
 
 # Install backend dependencies
-cd ../backend
+cd ../server
 npm install
 ```
 
@@ -36,7 +36,7 @@ npm install
 
 ```bash
 # Both frontend and backend can be started at one go
-cd backend
+cd server
 npm run dev
 
 ```
