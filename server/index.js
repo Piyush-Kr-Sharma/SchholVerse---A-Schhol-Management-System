@@ -42,7 +42,7 @@ mongoose
     useNewUrlParser: true,
     useUnifiedTopology: true,
   })
-  .then(console.log("Connected to MongoDB"))
+  .then(() => console.log("Connected to MongoDB"))  // In this way console will be printed only when the connection is successful, so we wrap this in a function
   .catch((err) => console.log("NOT CONNECTED TO NETWORK", err));
 
 app.use("/", Routes);
