@@ -49,72 +49,72 @@ npm run dev
 ### Admin Dashboard
 Admin can create/delete new student, class, teachers and he/she can also see how much fee collection has been made in an acedamic year.
 
-![Screenshot (62)](https://github.com/Piyush-Kr-Sharma/SchoolVerse/blob/main/ScreenShots/Screenshot%202025-02-01%20001255.png)
+![Screenshot (62)](https://github.com/Piyush-Kr-Sharma/SchholVerse---A-Schhol-Management-System/blob/main/ScreenShots/Screenshot%202025-02-01%20001255.png)
 
 ### Teacher Dashboard
 Teacher can see how many students are there in his class, how much test he has taken, also he can see the notice uploaded by the admin of the School
 
-![Screenshot (51)](https://github.com/Piyush-Kr-Sharma/SchoolVerse/blob/main/ScreenShots/Screenshot%202025-02-01%20001416.png)
+![Screenshot (51)](https://github.com/Piyush-Kr-Sharma/SchholVerse---A-Schhol-Management-System/blob/main/ScreenShots/Screenshot%202025-02-01%20001416.png)
 
 ### Class Attendance
 Teacher can take the attendance of the whole class each day and it get saved in the database.
 
-![Screenshot (52)](https://github.com/Piyush-Kr-Sharma/SchoolVerse/blob/main/ScreenShots/Screenshot%202025-02-01%20001453.png)
+![Screenshot (52)](https://github.com/Piyush-Kr-Sharma/SchholVerse---A-Schhol-Management-System/blob/main/ScreenShots/Screenshot%202025-02-01%20001453.png)
 
 ### Attendance History
 Teacher can see the attendance of any previous dates(if the attendance has been taken on that day only)
 
-![Screenshot (53)](https://github.com/Piyush-Kr-Sharma/SchoolVerse/blob/main/ScreenShots/Screenshot%202025-02-01%20001504.png)
+![Screenshot (53)](https://github.com/Piyush-Kr-Sharma/SchholVerse---A-Schhol-Management-System/blob/main/ScreenShots/Screenshot%202025-02-01%20001504.png)
 
 ### Class Assignment
 Teacher can upload assignment for the whole class.
 
-![Screenshot (53)](https://github.com/Piyush-Kr-Sharma/SchoolVerse/blob/main/ScreenShots/Screenshot%202025-02-01%20001944.png)
+![Screenshot (53)](https://github.com/Piyush-Kr-Sharma/SchholVerse---A-Schhol-Management-System/blob/main/ScreenShots/Screenshot%202025-02-01%20001944.png)
 
 ### Student Assignment Section
 All the students of the class can see the assignment uploaded by the teacher on their portal and they can submit their assignment by choosing the assignment file completed by the student and submitted it.
 
-![Screenshot (53)](https://github.com/Piyush-Kr-Sharma/SchoolVerse/blob/main/ScreenShots/Screenshot%202025-02-01%20004842.png)
+![Screenshot (53)](https://github.com/Piyush-Kr-Sharma/SchholVerse---A-Schhol-Management-System/blob/main/ScreenShots/Screenshot%202025-02-01%20004842.png)
 
 ### Assigment Submission List
 Teacher can see the list of students who have submiited their work on the assignmnet he/she has given.
 
-![Screenshot (53)](https://github.com/Piyush-Kr-Sharma/SchoolVerse/blob/main/ScreenShots/Screenshot%202025-02-01%20002517.png)
+![Screenshot (53)](https://github.com/Piyush-Kr-Sharma/SchholVerse---A-Schhol-Management-System/blob/main/ScreenShots/Screenshot%202025-02-01%20002517.png)
 
 ### Students List
 Teacher can see all the information abut each student, provide marks to the students and can also complain about any student to his parent via Email.
 
-![Screenshot (53)](https://github.com/Piyush-Kr-Sharma/SchoolVerse/blob/main/ScreenShots/Screenshot%202025-02-01%20002557.png)
+![Screenshot (53)](https://github.com/Piyush-Kr-Sharma/SchholVerse---A-Schhol-Management-System/blob/main/ScreenShots/Screenshot%202025-02-01%20002557.png)
 
 ### Students Information
 Teacher can see all information about a particular student which includes Name, Class, Roll Number, Attendance percentage, list of date on which he/she is present
 
-![Screenshot (53)](https://github.com/Piyush-Kr-Sharma/SchoolVerse/blob/main/ScreenShots/Screenshot%202025-02-01%20002622.png)
+![Screenshot (53)](https://github.com/Piyush-Kr-Sharma/SchholVerse---A-Schhol-Management-System/blob/main/ScreenShots/Screenshot%202025-02-01%20002622.png)
 
 ### Student's Complain
 Teacher can complain about any student to his/her parents via Email
 
-![Screenshot (53)](https://github.com/Piyush-Kr-Sharma/SchoolVerse/blob/main/ScreenShots/Screenshot%202025-02-01%20002747.png)
+![Screenshot (53)](https://github.com/Piyush-Kr-Sharma/SchholVerse---A-Schhol-Management-System/blob/main/ScreenShots/Screenshot%202025-02-01%20002747.png)
 
 ### Sample Complaint
 
-![Screenshot (53)](https://github.com/Piyush-Kr-Sharma/SchoolVerse/blob/main/ScreenShots/Screenshot%202025-02-01%20002943.png)
+![Screenshot (53)](https://github.com/Piyush-Kr-Sharma/SchholVerse---A-Schhol-Management-System/blob/main/ScreenShots/Screenshot%202025-02-01%20002943.png)
 
 ### Student Dashboard
 Student can see total subjects in his/her class, total assignments pending, attendance percentage, and the notice uploaded by the admin on the dashboard page.
 
-![Screenshot (53)](https://github.com/Piyush-Kr-Sharma/SchoolVerse/blob/main/ScreenShots/Screenshot%202025-02-01%20004750.png)
+![Screenshot (53)](https://github.com/Piyush-Kr-Sharma/SchholVerse---A-Schhol-Management-System/blob/main/ScreenShots/Screenshot%202025-02-01%20004750.png)
 
 ### Fee Section
 Student can see the information about his/her fee payment for the whole year at one place.
 
-![Screenshot (53)](https://github.com/Piyush-Kr-Sharma/SchoolVerse/blob/main/ScreenShots/Screenshot%202025-02-01%20005003.png)
+![Screenshot (53)](https://github.com/Piyush-Kr-Sharma/SchholVerse---A-Schhol-Management-System/blob/main/ScreenShots/Screenshot%202025-02-01%20005003.png)
 
 ### Fee payment using Razorpay
 Student can pay their school fee at their portal only via Razorpay which includes various types of payment methods and once the student pays their fee it will automatically show paid for that month and
 this amount will get added in the admin's Fee Collection.
 
-![Screenshot (53)](https://github.com/Piyush-Kr-Sharma/SchoolVerse/blob/main/ScreenShots/Screenshot%202025-02-01%20005029.png)
+![Screenshot (53)](https://github.com/Piyush-Kr-Sharma/SchholVerse---A-Schhol-Management-System/blob/main/ScreenShots/Screenshot%202025-02-01%20005029.png)
 
 
 ## Features
